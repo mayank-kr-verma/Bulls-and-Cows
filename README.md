@@ -11,6 +11,6 @@ TO-DO'S-
 - ~~unlimited and limited try versions~~
 - Include a highscore saving system
 - An option to adjust difficulty level 
-  >easy (using only 4 digits) ,  
+  >easy (using 4 digits) ,  
   >mid (using 7 digits) , 
   >hard (using 10 digits) 
