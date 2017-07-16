@@ -52,7 +52,7 @@ def gameStart():
 	print 'if code is 1234, and you use 1424'
 	print 'then you will get 2 bulls for 1 and 4'
 	print 'and 1 cow for 2'
-	print 'so let the games begin'
+	print 'so let the games begin.........'
 
 gameStart()
 noOfAttempts = 0
